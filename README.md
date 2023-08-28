@@ -1,2 +1,1 @@
-# gradient-color-maker
- 
+# Gradient Color Generator
